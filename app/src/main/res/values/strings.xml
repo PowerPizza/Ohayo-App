@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ohayo</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="hello">Hello</string>
+    <string name="good_day">Have a good day :]</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="image">Image</string>
+</resources>
